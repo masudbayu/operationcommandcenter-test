@@ -50,7 +50,6 @@ Data.port: 65530
 Data.ip: 123.123.123.123
 Data.appli: abcd
 Data.versi: v99
-
 Data.path: /xx/yy/xyz/aha
 
 =================================================
