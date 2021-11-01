@@ -22,19 +22,7 @@ https://github.com/lumbans/devops-la-challenges
 
 Question-Three:
 
-In this repository, please find the sample-1.log. The challenge is to parse the log using Grok Parser, and please generate logstash configuration.
-
-Output should be :
-
-Date : 2017-08-01 01:11:33,999
-ServiceId : 9999
-ServiceName: dompet
-channelSessionId : 10100000000123456789
-remark : BillPayment
-OriginatorConversationID : ASSTR0123123456456789789
-Msisdn : 6281xxxxxxxxx
-CommandId : PreValConfirmation
-
+Please create ansible for install filebeat and heartbeat
 
 =================================================
 
