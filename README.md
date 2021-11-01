@@ -28,7 +28,7 @@ Please create ansible for install filebeat and heartbeat
 
 Question-Four:
 
-In this repository, please find the sample-2.log. The challenge is to parse the log using Grok Parser, and please generate logstash configuration.
+In this repository, please find the sample-1.log. and sample-2.log. The challenge is to parse the log using Grok Parser, and please generate logstash configuration.
 
 The Output should be:
 
