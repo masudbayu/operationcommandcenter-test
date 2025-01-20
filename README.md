@@ -22,7 +22,7 @@ https://github.com/lumbans/devops-la-challenges
 
 Question-Three:
 
-Please create ansible (playbook) for push housekeeping script (Number one question) to many server !
+Please create ansible (playbook) for push housekeeping script (Question number one) to many server !
 
 =================================================
 
